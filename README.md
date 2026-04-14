@@ -6,7 +6,7 @@
 
 ### Lecture Notes
 
-##3# Unit 1: Natural Language Processing
+#### Unit 1: Natural Language Processing
 * [Introduction to PyTorch](IntroductionPyTorch.ipynb)
 * [Review of DSC 340](ReviewOfDSC340.ipynb)
 * [Attention Variants Slides](AttentionVariants_Slides.ipynb)
